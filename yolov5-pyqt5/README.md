@@ -1,6 +1,6 @@
 ## 博文地址
 
-<https://lslcyberli.com/2021/05/30/yolov5-pyqt5>
+<https://xugaoxiang.com/2021/06/30/yolov5-pyqt5>
 
 ## 代码执行
 
